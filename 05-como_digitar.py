@@ -21,7 +21,7 @@ pyautogui.click(x = 664, y = 993, duration= 2)
 
 #3
 # No comando abaixo usei caractere especial. Ele não será digitado.
-# pyautogui.typewrite('Olá, bom dia!')
+# pyautogui.typewrite('Olá, bom dia!') -> não funciona!
 
 escrever_frase('Olá, bom dia')
 
