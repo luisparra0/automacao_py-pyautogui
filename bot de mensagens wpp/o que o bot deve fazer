@@ -1,0 +1,10 @@
+Passos manuais que devem ser feitos para enviar uma mensagem:
+
+1 - ter uma lista de números
+2 - enviar individualmente uma mensagem para cada pessoa
+3 - pausar entre cada envio
+
+
+1 - escolher um contato
+2 - enviar a mensagem para esse contato
+        https://api.whatsapp.com/send?phone={telefone}
